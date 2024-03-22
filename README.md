@@ -14,7 +14,7 @@ Welcome to the GitHub User Checker project! This tool allows you to quickly chec
 
 [2] (OPTIONAL) Edit config.json If U Want The Avaliable Usernames To Be Sent To Your Telegram Bot
 
-[3] Run The Script With python github.py
+[3] Run The Script With python main.py
 
 Enjoy!
 
