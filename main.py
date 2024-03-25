@@ -14,7 +14,7 @@ from modules.logger import setup_logger
 #-------------------------------------------------------
 
 os.system("cls")
-os.system("title Github Username Checker")
+os.system("title Github Username Checker  /  t.me/rei07x")
 
 #start logger
 logger = setup_logger()
